@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T07:31:55.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="6LLeQ15-luecP_JQbMef" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T08:00:52.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="I5mbmIoSNHmylz0RfOMk" version="14.4.2" type="github">
   <diagram id="whCBQso5rjw7eLm7nlHZ" name="Page-1">
     <mxGraphModel dx="997" dy="643" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="YdCIy0fBJwv04v3kY629-15" value="扫描要创建的bean (@Component @Bean。。)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="237.5" y="26" width="205" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="ZAGgA4FYGaXW10n8bMKz-1" value="bean对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZAGgA4FYGaXW10n8bMKz-1" value="放入单例池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1976" width="430" height="150" as="geometry" />
         </mxCell>
       </root>
